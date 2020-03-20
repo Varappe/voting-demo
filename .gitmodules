@@ -1,0 +1,3 @@
+[submodule "voting-demo"]
+	path = voting-demo
+	url = https://github.com/Varappe/voting-demo
